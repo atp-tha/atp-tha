@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=atp-tha&color=blue)
 
-- 🔭 I’m currently working at [Ascend Group](https://www.ascendcorp.com/) under [EGG Digital](https://www.eggdigital.com).
+- 🔭 I’m currently working at [Freshket](https://www.freshket.co/).
 - 👯 I’m looking to collaborate on tech communities like [JavaScript Bangkok](https://javascriptbangkok.com/), [Angular Thailand](https://twitter.com/angularthailand) and [AWS User Group (Thailand)](https://medium.com/aws-user-group).
 - 🌱 I’m currently learning more about Blockchain and Game Design.
 - 🤔 I’m looking for help with [LineClient.AspNetCore](https://github.com/atp-tha/LineClient.AspNetCore)

@@ -5,9 +5,7 @@
 - 🔭 I’m currently working at [Freshket](https://www.freshket.co/).
 - 👯 I’m looking to collaborate on tech communities like [JavaScript Bangkok](https://javascriptbangkok.com/), [Angular Thailand](https://twitter.com/angularthailand) and [AWS User Group (Thailand)](https://medium.com/aws-user-group).
 - 🌱 I’m currently learning more about Blockchain and Game Design.
-- 🤔 I’m looking for help with [LineClient.AspNetCore](https://github.com/atp-tha/LineClient.AspNetCore)
 - 💬 Ask me about Software Architecture, AWS and .NET!
-- 😄 Pronouns: He/Him.
 - 📫 How to reach me:
 
 [![Linkedin: atp-tha](https://img.shields.io/badge/atp--tha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atp-tha/)](https://www.linkedin.com/in/atp-tha/)

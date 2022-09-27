@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [Factorytalk Co., Ltd.](https://factory-talk.com/).
 - 👯 I’m looking to collaborate on tech communities like [JavaScript Bangkok](https://javascriptbangkok.com/), [Angular Thailand](https://twitter.com/angularthailand) and [AWS User Group (Thailand)](https://medium.com/aws-user-group).
-- 🌱 I’m currently learning more about Serverless, Blockchain and Game Design.
+- 🌱 I’m currently learning more about Serverless, Blockchain and Game Design. At work, I'm also learning about Pharmaceutical Industry and GMP PIC/S compliance!
 - 💬 Ask me about Serverless Architecture, AWS and .NET!
 - 📫 How to reach me:
 
